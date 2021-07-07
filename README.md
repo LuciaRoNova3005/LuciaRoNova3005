@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola  👋
 
-<!--
-**LuciaRoNova3005/LuciaRoNova3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## Front-end devoloper Apasionada del mundo digital y del audiovisual.
 
-Here are some ideas to get you started:
+-💭 Con formación en publicidad y realización de audiviosuales tras trabajar 
+en proyectos de creación de portales e intranets se despertó mi interés por la programamción y me anime 
+a realizar un **bootcamp** en desarrollo front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-✨ Soy una persona con **buen humor, creativa y habituada a trabajar en equipo.
+😄 Dos cabezas piensan mejor que una! 😄
+
+- 💬 ### ¡No dudes en echar un vistazo a mi experiencia y hablemos!
+- 
+- 📫 ** lucia.r.nova@gmail.con 
+ https://www.linkedin.com/in/luciarodrigueznova/
+
+⚡ 
