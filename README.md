@@ -1,6 +1,6 @@
 ### Hola  👋
 
- ## Front-end devoloper Apasionada del mundo digital y del audiovisual.⚡ 
+ ## Front-end devoloper Apasionada del mundo digital y del audiovisual⚡ 
 
 💭 Con formación en publicidad y realización de audiviosuales tras trabajar 
 en proyectos de creación de portales e intranets se despertó mi interés por la programamción y me anime 
