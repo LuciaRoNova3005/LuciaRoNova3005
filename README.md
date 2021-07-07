@@ -1,6 +1,6 @@
 ### Hola  👋
 
- ## Front-end devoloper || Cinéfila ⚡ 
+ ## Front-end developer || Cinéfila ⚡ 
 
 💭 Con formación en publicidad y realización de audiovisuales tras trabajar en proyectos de creación de portales e intranets se despertó mi interés por la programación y me anime a realizar un **bootcamp en desarrollo front-end.
 
