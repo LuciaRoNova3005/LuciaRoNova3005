@@ -7,16 +7,19 @@
 ✨ Me considero una persona trabajadora **creativa, con buen humor y habituada a trabajar en equipo**
 #### 😄 Dos cabezas piensan mejor que una! 😄
 
-## Conocimientos
+##### Conocimientos
 ![image](https://user-images.githubusercontent.com/81588630/124922309-a8656480-dff9-11eb-8a5c-7e384cffcd8e.png)
 
-## Herramientas
+### Herramientas
 ![image](https://user-images.githubusercontent.com/81588630/124922363-b7e4ad80-dff9-11eb-971d-001985ce8867.png)
 
 
 ### 💬  ¡No dudes en echar un vistazo a mi experiencia y hablemos!
 
-📫  lucia.r.nova@gmail.com  
-https://www.linkedin.com/in/luciarodrigueznova/
+📫  lucia.r.nova@gmail.com || https://www.linkedin.com/in/luciarodrigueznova/
+
+
+💻 Otros proyectos en los que he participado:
+https://www.jaenparaisointerior.es/
 
          
