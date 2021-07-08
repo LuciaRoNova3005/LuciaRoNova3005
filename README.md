@@ -1,4 +1,4 @@
-# ## Hola  👋
+## Hola  👋
 
  ## Front-end developer || Cinéfila ⚡ 
 
