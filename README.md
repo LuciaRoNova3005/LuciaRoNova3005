@@ -17,7 +17,7 @@
 
 
 
-### 💬  ¡No dudes en echar un vistazo a mi experiencia y hablemos!
+### 💬  ¡No dudes en echar un vistazo a mis trabajos y hablemos!
 
 📫  lucia.r.nova@gmail.com || https://www.linkedin.com/in/luciarodrigueznova/
 
