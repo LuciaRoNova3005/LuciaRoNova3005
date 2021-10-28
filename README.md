@@ -33,7 +33,6 @@
 
 #### 💻 Otros proyectos en los que he participado: https://www.jaenparaisointerior.es/
 <br>
-<br>
 
 ### 💬  ¡No dudes en echar un vistazo a mis trabajos y hablemos!
 <br>
