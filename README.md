@@ -7,6 +7,8 @@
 ✨ Me considero una persona trabajadora **creativa, con buen humor y habituada a trabajar en equipo**
 #### 😄 Dos cabezas piensan mejor que una! 😄
 
+###  📫  lucia.r.nova@gmail.com || https://www.linkedin.com/in/luciarodrigueznova/
+
 ### Conocimientos
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -35,9 +37,8 @@
 <br>
 
 ### 💬  ¡No dudes en echar un vistazo a mis trabajos y hablemos!
-<br>
 
-###  📫  lucia.r.nova@gmail.com || https://www.linkedin.com/in/luciarodrigueznova/
+
 
 
 
