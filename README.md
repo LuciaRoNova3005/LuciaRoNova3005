@@ -1,15 +1,16 @@
-## Hola  👋 soy Lucía 
+## Hi 👋 I´m Lucía 
 
  ## Front-end developer || Desarrollador web ⚡ 
 
-💭 Con formación en publicidad y realización de audiovisuales tras trabajar de IT se despertó mi interés por la programación y me animé a realizar un **bootcamp en desarrollo front-end.**
+💭 With training in advertising and audiovisual production after working on IT projects, my interest in programming was awakened and I was encouraged to do a  **bootcamp in front-end development**
 
-✨ Me considero una persona trabajadora **creativa, con buen humor y habituada a trabajar en equipo**
-#### 😄 Dos cabezas piensan mejor que una! 😄
+✨ I consider myself a creative worker, **with good humor and used to teamwork**
+#### 😄 Two heads think better than one! 😄
 
 ###  📫  lucia.r.nova@gmail.com || https://www.linkedin.com/in/luciarodrigueznova/
 
-### Conocimientos
+### Knowledge 🚀
+
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -30,13 +31,13 @@
 <br>
 <br>
 
-### Herramientas
+### Tools 🛠️
 ![image](https://user-images.githubusercontent.com/81588630/124922363-b7e4ad80-dff9-11eb-971d-001985ce8867.png)
 
-#### 💻 Otros proyectos en los que he participado: https://www.jaenparaisointerior.es/
+#### 💻 Other projects in which I have participated: https://www.jaenparaisointerior.es/
 <br>
 
-### 💬  ¡No dudes en echar un vistazo a mis trabajos y hablemos!
+### 💬  Feel free to take a look at my work and let's talk!
 
 
 
