@@ -7,7 +7,7 @@
 ✨ I consider myself a creative worker, **with good humor and used to teamwork**
 #### 😄 Two heads think better than one! 😄
 
-###  📫  lucia.r.nova@gmail.com || https://www.linkedin.com/in/luciarodrigueznova/
+
 
 ### Knowledge 🚀
 
@@ -38,6 +38,8 @@
 <br>
 
 ### 💬  Feel free to contact me, let's talk!
+
+###  📫  lucia.r.nova@gmail.com || https://www.linkedin.com/in/luciarodrigueznova/
 
 
 
