@@ -37,7 +37,7 @@
 #### 💻 Other projects in which I have participated: https://www.jaenparaisointerior.es/
 <br>
 
-### 💬  Feel free to take a look at my work and let's talk!
+### 💬  Feel free to contact me, let's talk!
 
 
 
