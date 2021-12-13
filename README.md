@@ -34,7 +34,7 @@
 ### Tools 🛠️
 ![image](https://user-images.githubusercontent.com/81588630/124922363-b7e4ad80-dff9-11eb-971d-001985ce8867.png)
 
-#### 💻 Other projects in which I have participated: https://www.jaenparaisointerior.es/
+### 💻 Other projects in which I have participated: https://www.jaenparaisointerior.es/
 <br>
 
 ### 💬  Feel free to contact me, let's talk!
