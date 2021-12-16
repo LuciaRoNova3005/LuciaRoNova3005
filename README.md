@@ -4,11 +4,17 @@
 
 💭 With training in advertising and audiovisual production after working on IT projects, my interest in programming was awakened and I was encouraged to do a  **bootcamp in front-end development**
 
+I just finished @Adalab Bootcamp and learned:
+
++ HTML5, CSS3, Sass, Bootstrap;
++ JavaScript (with ReactJS) and third-party web services (APIs);
++ Version control with Git;
++ Creation of SPAs with React;
++ Node JS and Express.
+
 ✨ I consider myself a creative worker, **with good humor and used to teamwork**
 #### 😄 Two heads think better than one! 😄
-
-
-
+---
 ### Knowledge 🚀
 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,7 +41,8 @@
 ![image](https://user-images.githubusercontent.com/81588630/124922363-b7e4ad80-dff9-11eb-971d-001985ce8867.png)
 
 ### 💻 Other projects in which I have participated: https://www.jaenparaisointerior.es/
-<br>
+
+---
 
 ### 💬  Feel free to contact me, let's talk!
 
