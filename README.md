@@ -36,6 +36,7 @@ I just finished @Adalab Bootcamp and learned:
 <img align="left" src="https://user-images.githubusercontent.com/81588630/139043514-43b4e991-7b7d-4b28-9db2-e80e927ee75e.png" alt="nodejs" width="70" height="50"/><br>
 <br>
 <br>
+---
 
 ### Tools 🛠️
 ![image](https://user-images.githubusercontent.com/81588630/124922363-b7e4ad80-dff9-11eb-971d-001985ce8867.png)
