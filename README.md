@@ -34,8 +34,7 @@ I just finished @Adalab Bootcamp and learned:
 <img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 <img align="left" src="https://user-images.githubusercontent.com/81588630/139043514-43b4e991-7b7d-4b28-9db2-e80e927ee75e.png" alt="nodejs" width="70" height="50"/><br>
-<br>
-<br>
+
 ---
 
 ### Tools 🛠️
